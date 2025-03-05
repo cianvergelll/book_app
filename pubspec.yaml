@@ -48,3 +48,9 @@ flutter:
   assets:
     - assets/it_guy.jpg
     - assets/it_read.jpg
+    - assets/flutter_book.jpg
+    - assets/dart_book.jpg
+    - assets/uiux_book.jpg
+    - assets/android_book.jpg
+    - assets/ios_book.jpg
+    - assets/ml_book.jpg
